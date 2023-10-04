@@ -13,11 +13,11 @@
 
 ## Install
 ```
-pip install GoogleNews
+!pip install git+https://github.com/CHesketh76/GoogleNews.git
 ```
 or
 ```
-pip install --upgrade GoogleNews
+!pip install --upgrade git+https://github.com/CHesketh76/GoogleNews.git
 ```
 ## Usage
 - Initializing
