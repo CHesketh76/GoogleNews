@@ -1,4 +1,4 @@
-# GoogleNews
+# GoogleNews Fixed issue of not pulling past articles, only current articles
 
 [![Build Status](https://app.travis-ci.com/Iceloof/GoogleNews.svg)](https://app.travis-ci.com/github/Iceloof/GoogleNews)
 [![Coverage Status](https://coveralls.io/repos/github/Iceloof/GoogleNews/badge.svg)](https://coveralls.io/github/Iceloof/GoogleNews)
